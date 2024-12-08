@@ -76,4 +76,4 @@ If you have any questions or issues, please open an issue in the [GitHub Issues]
 
 ## Screenshots
 
-Feel free to add screenshots or examples of the application in action to help users understand the project better.
+![image](https://github.com/antonylu0826/KeycloakWithXAF/blob/master/KeycloakWithXAF.gif)
