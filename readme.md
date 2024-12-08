@@ -1,4 +1,4 @@
-# KeycloakWithXAF
+# Keycloak With XAF
 
 This repository demonstrates how to integrate **Keycloak** with **DevExpress XAF** to achieve Single Sign-On (SSO) functionality. It includes examples for both **Blazor** and **Web API Server** applications.
 
