@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeycloakWithXAF.WebApi", "K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeycloakWithXAF.Blazor.Server", "KeycloakWithXAF.Blazor.Server\KeycloakWithXAF.Blazor.Server.csproj", "{69820A1C-4BFA-437C-99C8-F9253CB31B00}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{DC204F14-C575-4146-A085-DC38AE5D784C}"
+	ProjectSection(SolutionItems) = preProject
+		KeycloakWithXAF.gif = KeycloakWithXAF.gif
+		readme.md = readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
